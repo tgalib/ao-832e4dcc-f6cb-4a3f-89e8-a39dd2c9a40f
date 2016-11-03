@@ -1,0 +1,7 @@
+Source-Organization: Tauranga City Library
+Organization-Address: 91 Willow St, Tauranga 3110, New Zealand
+Contact-Phone: +64.7.5777177
+Contact-Email: library@tauranga.govt.nz
+External-Description: J.B. Aitken Shark Catch
+External-Identifier: 832e4dcc-f6cb-4a3f-89e8-a39dd2c9a40f
+
